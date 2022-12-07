@@ -5,5 +5,3 @@ I use packages that are not included in the class data1030 conda environment, so
 please use the provided .yml file to create a new environment beforehand. 
 
 If you only want to run the EDA notebook- EDA_Preprocess_ntbk.ipynb- there is no need to create a new environment. That notebook uses blended_quake_data.csv as the input, which is the output file of the blending notebook.
-
-Also, the Data_Modeling file in src holds some ad-hoc models I was experimenting with over the last few weeks. My data has changed many times since then, so that file may not run properly in its current state.
